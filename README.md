@@ -76,10 +76,7 @@ Notre programme exo_11.rb est devenu beau gosse. Écris un programme exo_12.rb q
 
 2.13. Une liste d'email
 
-Écris un programme exo_13.rb qui va créer une liste de 50 faux emails et les stocker dans une array. Voici le format que devront avoir les faux emails :
-"jean.dupont.01@email.fr"
-"jean.dupont.02@email.fr"
-etc..
+Écris un programme exo_13.rb qui va créer une liste de 50 faux emails et les stocker dans une array. Voici le format que devront avoir les faux emails : "jean.dupont.01@email.fr", "jean.dupont.02@email.fr", etc.
 
 ---------------
 
@@ -91,40 +88,16 @@ Prends le programme exo_13.rb et créé un programme exo_14.rb qui va reprendre 
 
 2.15. La pyramide
 
-Construis un programme exo_15.rb qui va demander à l'utilisateur un nombre entre 1 et 25 et qui va sortir une pyramide à descendre d'autant d'étages que ce nombre. Voici un exemple :
-Salut, bienvenue dans ma super pyramide ! Combien d'étages veux-tu ?
-> 5
-Voici la pyramide :
-#
-##
-###
-####
-#####
+Construis un programme exo_15.rb qui va demander à l'utilisateur un nombre entre 1 et 25 et qui va sortir une pyramide à descendre d'autant d'étages que ce nombre.
 
 ---------------
 
 2.16. La pyramide, dans l'autre sens
 
-Reprends ton programme exo_15.rb et fais un programme pyramide.rb qui montera au lieu de descendre :
-Salut, bienvenue dans ma super pyramide ! Combien d'étages veux-tu ?
-> 5
-Voici la pyramide :
-    #
-   ##
-  ###
- ####
-#####
+Reprends ton programme exo_15.rb et fais un programme pyramide.rb qui montera au lieu de descendre.
 
 ---------------
 
 2.17. La pyramide, version expert
 
-Crée un programme exo_17.rb qui va demander à l'utilisateur un nombre entre 1 et 25 et qui va sortir une pyramide qui monte et qui descend, comme montré ci-dessous :
-Salut, bienvenue dans ma super pyramide ! Combien d'étages veux-tu ?
-> 5
-Voici la pyramide :
-    #
-   ###
-  #####
- #######
-#########
+Crée un programme exo_17.rb qui va demander à l'utilisateur un nombre entre 1 et 25 et qui va sortir une pyramide qui monte et qui descend.
